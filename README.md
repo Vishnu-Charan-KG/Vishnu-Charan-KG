@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science graduate student with hands-on project experience in React, JavaScript, Tailwind CSS, Python, SQL, REST APIs, Node.js and machine learning. Built and deployed responsive web applications and developed academic ML projects involving NLP, data preprocessing, and classification models. Seeking entry-level software engineering or front-end development roles.
 
 
